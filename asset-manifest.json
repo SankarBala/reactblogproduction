@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactblogproduction/static/css/main.3e106f27.chunk.css",
-    "main.js": "/reactblogproduction/static/js/main.a94e159f.chunk.js",
-    "main.js.map": "/reactblogproduction/static/js/main.a94e159f.chunk.js.map",
+    "main.js": "/reactblogproduction/static/js/main.a8fda0f9.chunk.js",
+    "main.js.map": "/reactblogproduction/static/js/main.a8fda0f9.chunk.js.map",
     "runtime-main.js": "/reactblogproduction/static/js/runtime-main.67a421de.js",
     "runtime-main.js.map": "/reactblogproduction/static/js/runtime-main.67a421de.js.map",
     "static/js/2.a27f7008.chunk.js": "/reactblogproduction/static/js/2.a27f7008.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.67a421de.js",
     "static/js/2.a27f7008.chunk.js",
     "static/css/main.3e106f27.chunk.css",
-    "static/js/main.a94e159f.chunk.js"
+    "static/js/main.a8fda0f9.chunk.js"
   ]
 }
